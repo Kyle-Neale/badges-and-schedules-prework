@@ -14,7 +14,7 @@ end
 
 def assign_room(speakers)
   room_assignments = []
-  speaker
+  speakers.each { |speaker| room_assignments.push()
   
 end
   
