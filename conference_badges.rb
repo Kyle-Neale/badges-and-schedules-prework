@@ -17,4 +17,5 @@ def assign_room(speakers)
   speakers.each { |speaker| room_assignments.push("Hello, #{speaker}! You'll be assigned to room #{speakers.index(speaker)}!")}
   room_assignments
 end
-  
+
+def printer
