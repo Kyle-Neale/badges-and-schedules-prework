@@ -19,6 +19,9 @@ def assign_rooms(speakers)
 end
 
 def printer(list)
-  assign_rooms(list).each { |person| puts person }
-  batch_badge_creator(list).each { |person| puts person }
+  batch_badge_creator(list).each { |person| 
+  puts person }
+  
+  assign_rooms(list).each { |person| 
+  puts person }
 end
