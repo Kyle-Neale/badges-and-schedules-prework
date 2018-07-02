@@ -18,4 +18,4 @@ def assign_room(speakers)
   room_assignments
 end
 
-def printer
+# def printer
