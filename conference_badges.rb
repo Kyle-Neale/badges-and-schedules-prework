@@ -12,8 +12,9 @@ def batch_badge_creator(arr)
 end
 
 
-def assign_room(speaker)
-  rooms.push(speaker)
+def assign_room(speakers)
+  room_assignments = []
+  speaker
   
 end
   
